@@ -20,17 +20,17 @@ ___
   ```TBA```
 ___
 ### Linux (Package Manager)
-  #### Ubuntu/Mint (APT)
+ - #### Ubuntu/Mint (APT)
     ```TBA```
-  #### Arch (AUR)
+ - #### Arch (AUR)
     ```TBA```
-  #### NixOS (NIX)
+ - #### NixOS (NIX)
     ```TBA```
 ___
 ### Linux (Install)
-    ```TBA```
+  ```TBA```
 ### Linux (Portable)
-    ```TBA```
+  ```TBA```
 ___
 ### MacOS (Homebrew)
   ```TBA```
