@@ -7,12 +7,6 @@ ___
 
 ## Install
 Worry not, for RetroMole runs on **[Windows (x64)](#windows-install), [Linux (x64)](#linux-package-manage), [MacOS (x64, arm64)](#macos-homebrew)** and [perhaps eventually the Web](https://github.com/orgs/RetroMole/discussions/1)~!
-
-### Generic Installation ***[Large File Size]***
-  Cross-platform Portable [Cosmopolitan APE](https://justine.lol/ape.html) via our custom [Cosmopolitan .NET](https://github.com/RetroMole/Cosmopolitan-.NET) Executable.
-  See [Discussion](https://github.com/orgs/RetroMole/discussions/2).
-
-  ```TBA```
 ___
 ### Windows (Install)
   ```TBA```
@@ -26,7 +20,6 @@ ___
     ```TBA```
  - #### NixOS (NIX)
     ```TBA```
-___
 ### Linux (Install)
   ```TBA```
 ### Linux (Portable)
@@ -34,9 +27,7 @@ ___
 ___
 ### MacOS (Homebrew)
   ```TBA```
-### MacOS (x64 Install)
-  ```TBA```
-### MacOS ***[M1 family]*** (arm64 Install) 
+### MacOS (Install)
   ```TBA```
 ### MacOS (Portable)
   ```TBA```
