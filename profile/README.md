@@ -33,20 +33,22 @@ ___
   ```TBA```
 ___
 
-## Currently On hiatus
-Currently the lead developer of RetroMole, Hazel (@Vawlpe) is busy trying to figure things out IRL, the [`main` branch of the core repo](https://github.com/RetroMole/MOLE/tree/main) will remain practically empty untill full-throttle development resumes, in the meantime, here's what you can explore:
+## Development has finally started again
+[`main` branch](https://github.com/RetroMole/MOLE/tree/main) will continue to remain practically empty untill v0.1 is ready
 
-- ### Slow Development Branch:
-  [An up-to-date experimental branch](https://github.com/RetroMole/MOLE/tree/dev) exists which holds current code as we work on it in our free time despite the hiatus.
+- ### Current dev branch:
+  An up-to-date [`dev` branch](https://github.com/RetroMole/MOLE/tree/dev) exists which holds the current development code.
 
 - ### Wiki:
-  [Our Wiki](https://github.com/RetroMole/MOLE/wiki) holds various documentation on existing systems and how to set things up for both new users, experienced romhackers, developers, and just anyone who fancies reading up on things.
+  [Our Wiki](https://github.com/RetroMole/MOLE/wiki) is currently out of data but will hold various documentation on existing systems and how to set things up for both new users, experienced romhackers, developers, and just anyone who fancies reading up on things.
 
 - ### Discussions:
   Discuss or read up on various planned features, bugs, concepts, tooling, announcements, showcases, Q&As, etc... on [our discussions page](https://github.com/orgs/RetroMole/discussions).
 
 - ### Archives:
-  There is currently 3 branches on the core repo that begin with the prefix `Old-` followed by a `YYYY/MM/DD` date corresponding to the last code-related change made on that branch, these are previous failed attempts at bringing RetroMole to life, although the even older attempts before the switch to C# are sadly missing
+  There is currently 3 branches on the core repo that begin with the prefix `Old-` followed by a `YYYY/MM/DD` date corresponding to the last code-related change made on that branch, these are previous attempts at building Mole, some drafts were never backend up but here they are in cronological order
+  - Old C++ WxWidgets draft, [old doc](https://docs.google.com/document/d/1HrlVJWKCjPcVIAoZXt8xTMONgAhpVZv2Sf5ueRBPmnY/edit?usp=sharing) detailing initial overblown plans
+  - Old Python + Tkinter experiments
   - [Old-2021/05/22](https://github.com/RetroMole/MOLE/tree/Old-2021/05/22)
   - [Old-2022/01/03](https://github.com/RetroMole/MOLE/tree/Old-2022/01/03)
   - [Old-2022/02/08](https://github.com/RetroMole/MOLE/tree/Old-2022/02/08)
