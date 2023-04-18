@@ -33,21 +33,21 @@ ___
   ```TBA```
 ___
 
-## Development has finally started again
+## Development is unfortunately still on hold cuz life
 [`main` branch](https://github.com/RetroMole/MOLE/tree/main) will continue to remain practically empty untill v0.1 is ready
 
 - ### Current dev branch:
   An up-to-date [`dev` branch](https://github.com/RetroMole/MOLE/tree/dev) exists which holds the current development code.
 
 - ### Wiki:
-  [Our Wiki](https://github.com/RetroMole/MOLE/wiki) is currently out of data but will hold various documentation on existing systems and how to set things up for both new users, experienced romhackers, developers, and just anyone who fancies reading up on things.
+  [Our Wiki](https://github.com/RetroMole/MOLE/wiki) is currently out-of-date but will hold various documentation on existing systems and how to set things up for both new users, experienced romhackers, developers, and just anyone who fancies reading up on things.
 
 - ### Discussions:
   Discuss or read up on various planned features, bugs, concepts, tooling, announcements, showcases, Q&As, etc... on [our discussions page](https://github.com/orgs/RetroMole/discussions).
 
 - ### Archives:
   There is currently 3 branches on the core repo that begin with the prefix `Old-` followed by a `YYYY/MM/DD` date corresponding to the last code-related change made on that branch, these are previous attempts at building Mole, some drafts were never backend up but here they are in cronological order
-  - Old C++ WxWidgets draft, [old doc](https://docs.google.com/document/d/1HrlVJWKCjPcVIAoZXt8xTMONgAhpVZv2Sf5ueRBPmnY/edit?usp=sharing) detailing initial overblown plans
+  - Old C++ WxWidgets draft ([old doc](https://docs.google.com/document/d/1HrlVJWKCjPcVIAoZXt8xTMONgAhpVZv2Sf5ueRBPmnY/edit?usp=sharing) detailing initial overblown plans)
   - Old Python + Tkinter experiments
   - [Old-2021/05/22](https://github.com/RetroMole/MOLE/tree/Old-2021/05/22)
   - [Old-2022/01/03](https://github.com/RetroMole/MOLE/tree/Old-2022/01/03)
